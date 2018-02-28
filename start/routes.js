@@ -19,7 +19,7 @@ Route.get('/', ({
   request
 }) => {
   return {
-    greeting: 'Hello world in JSON'
+    greeting: 'Ba2k ETH Mining APP'
   }
 })
 // index, hashPower, hashingUnit, powerConsumption, costPerKW, poolFree
