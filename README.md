@@ -19,13 +19,13 @@ This is the boilerplate for creating an API server in AdonisJs, it comes pre-con
 
 ## Setup
 
-Use the adonis command to install the blueprint
+Clone the roject 
 
 ```bash
-adonis new yardstick --api-only
+$ git clone git@github.com:JeffShomali/Mining-Calculator.git
 ```
 
-or manually clone the repo and then run `npm install`.
+Install Dependencies by `$ npm ci`.
 
 
 ### Migrations
