@@ -1,3 +1,12 @@
+
+# Cryptocurrency Mining Calculator
+
+> There are several factors to consider when determining the profitability of Ethereum mining. To get a rough estimate of energy costs and profitability,  this calculator will give you a good ballpark number. 
+The network hash rate
+Electricity prices in mining location
+Mining pools
+
+
 # Adonis API application
 
 This is the boilerplate for creating an API server in AdonisJs, it comes pre-configured with.
